@@ -1,27 +1,13 @@
-<p align="left">
-    <h1 align="left">Бакумова Валерия Евгеньевна</h1>
-</p>
+# Бакумова Валерия Евгеньевна
 
-<p align="right" style="line-height: 1.3;">
-  <h4 align="right" style="margin: 0;">
-    Новосибирск, Россия
-  </h4>
-  <h4 align="right" style="margin: 0;">
-    <strong>Телефон:</strong> +7 (953) 7750359
-  </h4>
-  <h4 align="right" style="margin: 0;">
-    <strong>Email:</strong> <a href="mailto:b_val4@mail.ru">b_val4@mail.ru</a>
-  </h4>
-  <h4 align="right" style="margin: 0;">
-    <strong>GitHub:</strong> <a href="https://github.com/M1roQ">https://github.com/M1roQ</a>
-  </h4>
-  <h4 align="right" style="margin: 0;">
-    <strong>Telegram:</strong> @b_val4
-  </h4>
-</p>
+Новосибирск, Россия
+
+**Телефон:** +7 (953) 7750359  
+**Email:** b_val4@mail.ru   
+**GitHub:** https://github.com/M1roQ  
+**Telegram:** @b_val4  
 
 ---
-
 
 ## Опыт работы
 
